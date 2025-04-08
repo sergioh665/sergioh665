@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil no GitHub!
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergioh665&repo=Py2cfg&theme=graywhite)](https://github.com/sergioh665/Py2cfg)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergioh665&repo=software-quality&theme=graywhite&show_icons=true)](https://github.com/sergioh665/software-quality)
 
-## 📫 Como me encontrar?
+## Como me encontrar?
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergioh665@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergioh665/)
@@ -26,10 +26,3 @@ Bem-vindo ao meu perfil no GitHub!
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sergio_henriqve)
 
 <a href="https://github-readme-stats.vercel.app/api?username=sergioh665"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sergioh665&include_all_commits=true&theme=graywhite&show_icons=true&hide_border=true&count_private=true&locale=pt-br&layout=normal" alt="Sergio's github stats" /></a> | <a href="https://github.com/sergioh665/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioh665&layout=compact&theme=graywhite&hide_border=true" /></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
