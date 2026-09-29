@@ -6,8 +6,8 @@
 
 ## Some repos
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Py2cfg&theme=graywhite)](https://github.com/sergioh665/Py2cfg)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=software-quality&theme=graywhite&show_icons=true)](https://github.com/sergioh665/software-quality)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Hesponda&theme=graywhite)](https://github.com/sergioh665/Hesponda)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite&show_icons=true)](https://github.com/sergioh665/PromoDailyPage)
 
 ## Let's talk?
 
@@ -24,8 +24,8 @@
 
 #### Alguns repositórios
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Py2cfg&theme=graywhite)](https://github.com/sergioh665/Py2cfg)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=software-quality&theme=graywhite&show_icons=true)](https://github.com/sergioh665/software-quality)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Hesponda&theme=graywhite)](https://github.com/sergioh665/Hesponda)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite&show_icons=true)](https://github.com/sergioh665/PromoDailyPage)
 
 ## Vamos conversar?
 
