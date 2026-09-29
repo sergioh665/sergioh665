@@ -7,7 +7,7 @@
 ## Some repos
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Hesponda&theme=graywhite)](https://github.com/sergioh665/Hesponda)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite&show_icons=true)](https://github.com/sergioh665/PromoDailyPage)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite)](https://github.com/sergioh665/PromoDailyPage)
 
 ## Let's talk?
 
@@ -25,7 +25,7 @@
 #### Alguns repositórios
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=Hesponda&theme=graywhite)](https://github.com/sergioh665/Hesponda)
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite&show_icons=true)](https://github.com/sergioh665/PromoDailyPage)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=sergioh665&repo=PromoDailyPage&theme=graywhite)](https://github.com/sergioh665/PromoDailyPage)
 
 ## Vamos conversar?
 
